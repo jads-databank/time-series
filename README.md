@@ -1,5 +1,7 @@
-# Time Series
+# Time Series Datasets
 Repository for time series related data
+
+## Earthquake Sensor Dataset
 
 
 ## CWRU Bearing Dataset
