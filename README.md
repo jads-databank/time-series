@@ -1,4 +1,4 @@
-# timeseries
+# Time Series
 Repository for time series related data
 
 
