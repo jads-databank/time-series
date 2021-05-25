@@ -1,6 +1,7 @@
 # Time Series Datasets
 Repository for time series related data
 
+Please sort the submissions in this markdown file in order of date added
 ## Earthquake Sensor Dataset
 
 
