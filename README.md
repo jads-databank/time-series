@@ -32,3 +32,15 @@ A dataset of sensor placed on a bridge. Can be used for time series forecasting 
 - - [Infrawatch Bridge Dataset](https://infrawatch.liacs.nl)
   - Date Added: 25-05-2021
   - Contact Person: Stefan Bloemheuvel.
+  - Tasks: Forecasting, Anomaly Detection
+
+- [Paderborn Bearing Dataset](https://mb.uni-paderborn.de/en/kat/main-research/datacenter/bearing-datacenter/data-sets-and-download)
+
+  - Date Added: 25-05-2021
+  - Contact Person: Jurgen van den Hoogen
+  - Tasks: Classification, Anomaly Detection
+
+- [CWRU Bearing Dataset](https://csegroups.case.edu/bearingdatacenter/pages/download-data-file)
+  - Date Added: 25-05-2021
+  - Contact Person: Jurgen van den Hoogen
+  - Tasks: Classification, Anomaly Detection   
