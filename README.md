@@ -5,7 +5,7 @@ Please sort the submissions in this markdown file in order of date added
 
 
 ## CWRU Bearing Dataset 
-Contact: Jurgen van den Hoogen  
+Contact: Jurgen van den Hoogen\
 Added on: 25-05-2021  
 #### https://csegroups.case.edu/bearingdatacenter/pages/download-data-file
 For easy preprocessing and usage of the data in python language, we recommend using the multivariate-cwru packaged, which can be installed via pip.
