@@ -15,3 +15,9 @@ See https://pypi.org/project/multivariate-cwru/ for more information.
 
 ## Paderborn Bearing Dataset (contact: Jurgen van den Hoogen)
 #### https://mb.uni-paderborn.de/en/kat/main-research/datacenter/bearing-datacenter/data-sets-and-download
+
+
+25-05-2021
+## Infrawatch Bridge Dataset (contact: Stefan Bloemheuvel)
+A dataset of sensor placed on a bridge. Can be used for time series forecasting or anomaly detection. And also for signal processing tasks.
+#### https://infrawatch.liacs.nl
