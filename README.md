@@ -26,3 +26,9 @@ Contact: Stefan Bloemheuvel <br />
 Added on: 25-05-2021 <br />
 A dataset of sensor placed on a bridge. Can be used for time series forecasting or anomaly detection. And also for signal processing tasks.
 #### https://infrawatch.liacs.nl
+
+
+
+- - [Infrawatch Bridge Dataset](https://infrawatch.liacs.nl)
+  - Date Added: 25-05-2021
+  - Contact Person: Stefan Bloemheuvel.
