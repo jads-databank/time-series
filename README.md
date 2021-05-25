@@ -29,6 +29,6 @@ A dataset of sensor placed on a bridge. Can be used for time series forecasting 
 
 
 
-- - [https://infrawatch.liacs.nl](Infrawatch Bridge Dataset)
+- - [Infrawatch Bridge Dataset](https://infrawatch.liacs.nl)
   - Date Added: 25-05-2021
   - Contact Person: Stefan Bloemheuvel.
