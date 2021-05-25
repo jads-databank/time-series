@@ -2,7 +2,6 @@
 Repository for time series related data
 
 Please sort the submissions in this markdown file in order of date added
-## Earthquake Sensor Dataset
 
 ##### 25-05-2021
 ## CWRU Bearing Dataset (contact: Jurgen van den Hoogen)
