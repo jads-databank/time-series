@@ -4,7 +4,7 @@ Repository for time series related data
 Please sort the submissions in this markdown file in order of date added
 
 ### 2021
-- - [Infrawatch Bridge Dataset](https://infrawatch.liacs.nl)
+- [Infrawatch Bridge Dataset](https://infrawatch.liacs.nl)
   - Date Added: 25-05-2021
   - Contact Person: Stefan Bloemheuvel.
   - Tasks: Forecasting, Anomaly Detection
