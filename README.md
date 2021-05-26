@@ -19,3 +19,4 @@ Please sort the submissions in this markdown file in order of date added
   - Date Added: 25-05-2021
   - Contact Person: Jurgen van den Hoogen
   - Tasks: Classification, Anomaly Detection   
+  - Other: [Multivariate CWRU](https://pypi.org/project/multivariate-cwru/) can be used for retrieval and preprocessing of the data
