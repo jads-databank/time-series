@@ -10,10 +10,10 @@ Please sort the submissions in this markdown file in order of date added
   - Tasks: Forecasting, Anomaly Detection
 
 - [Paderborn Bearing Dataset](https://mb.uni-paderborn.de/en/kat/main-research/datacenter/bearing-datacenter/data-sets-and-download)
-
   - Date Added: 25-05-2021
   - Contact Person: Jurgen van den Hoogen
   - Tasks: Classification, Anomaly Detection
+  - Other: [Paderborn_Bearing](https://pypi.org/project/paderborn-bearing/) can be used for retrieval and preprocessing of the data
 
 - [CWRU Bearing Dataset](https://csegroups.case.edu/bearingdatacenter/pages/download-data-file)
   - Date Added: 25-05-2021
