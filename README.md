@@ -13,7 +13,7 @@ Please sort the submissions in this markdown file in order of date added
   - Date Added: 25-05-2021
   - Contact Person: Jurgen van den Hoogen
   - Tasks: Classification, Anomaly Detection
-  - Other: [Paderborn_Bearing](https://pypi.org/project/paderborn-bearing/) can be used for retrieval and preprocessing of the data
+  - Other: [Paderborn Bearing](https://pypi.org/project/paderborn-bearing/) can be used for retrieval and preprocessing of the data
 
 - [CWRU Bearing Dataset](https://csegroups.case.edu/bearingdatacenter/pages/download-data-file)
   - Date Added: 25-05-2021
