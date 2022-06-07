@@ -23,6 +23,6 @@ Please sort the submissions in this markdown file in order of date added
 
 ### 2022
 - [Multivarite Earthquake dataset](https://github.com/StefanBloemheuvel/GCNTimeseriesRegression)
-- Date Added: 07-07-2022
+- Date Added: 07-06-2022
 - Contact Person: Stefan bloemheuvel
 - Tasks: Classification, Clustering, Regression
