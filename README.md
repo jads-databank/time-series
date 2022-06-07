@@ -20,3 +20,9 @@ Please sort the submissions in this markdown file in order of date added
   - Contact Person: Jurgen van den Hoogen
   - Tasks: Classification, Anomaly Detection   
   - Other: [Multivariate CWRU](https://pypi.org/project/multivariate-cwru/) can be used for retrieval and preprocessing of the data
+
+### 2022
+- [Multivarite Earthquake dataset](https://github.com/StefanBloemheuvel/GCNTimeseriesRegression)
+- Date Added: 07-07-2022
+- Contact Person: Stefan bloemheuvel
+- Tasks: Classification, Clustering, Regression
